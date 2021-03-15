@@ -98,7 +98,7 @@ App.Config.set('auth_provider_all', {
     class:  'google'
   oauth2:
     url:    '/auth/oauth2'
-    name:   'OAuth2'
+    name:   'Cubi'
     config: 'auth_oauth2'
     class:  'oauth2'
   weibo:
